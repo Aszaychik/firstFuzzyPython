@@ -1,8 +1,122 @@
-ID,Role,Years Experience,Salary(in million),Worth?
-ID01,Software Engineer,2,3,?
-ID02,Junior Backend Developer,0,5.5,?
-ID03,Fullstack Developer,2,9.2,?
-ID04,UI / UX Designer,2,7,?
-ID05,System Developer,3,6,?
-ID06,Account Manager,1,5.9,?
-ID07,QA Engineer,2,7.4,?
+ID,Role,Years Experience,Salary(in dollar),Worth?
+ID001,Account Executive,2,510,?
+ID002,Account Manager,1,401,?
+ID003,Account Support Specialist,1,360,?
+ID004,Administration,2,306,?
+ID005,Android Developer,4,374,?
+ID006,Android Engineer,0,272,?
+ID007,Application Developer,3,598,?
+ID008,Apps Developer,1,639,?
+ID009,Associate Product Manager,2,204,?
+ID010,Associate Research Executive (Market Research),1,374,?
+ID011,Associate Software Developer,1,510,?
+ID012,Associate Software Engineer,1,408,?
+ID013,Back End Developer,2,408,?
+ID014,Backend Engineer,4,408,?
+ID015,Backend Web Developer,1,170,?
+ID016,Business analyst,1,578,?
+ID017,Business Intelligence,1,680,?
+ID018,Business Intelligence Analyst,0,612,?
+ID019,Business Intelligence Developer,0,503,?
+ID020,Campaign project (commercial team),2,560,?
+ID021,Commerce Enablement Sales Team,1,224,?
+ID022,Community Officer,2,204,?
+ID023,Consultant,3,476,?
+ID024,Content Editor,0,320,?
+ID025,Content Specialist,1,578,?
+ID026,Copywriter,0,354,?
+ID027,Corporate Communications,4,680,?
+ID028,CRM Specialist,2,612,?
+ID029,Customer Experience Specialist,1,340,?
+ID030,Customer Service Logistics,0,449,?
+ID031,Data Analyst,3,612,?
+ID032,Data Engineer,2,390,?
+ID033,Data Engineer Intern,0,476,?
+ID034,Data Support Supervisor,3,612,?
+ID035,digital marketing,1,374,?
+ID036,Digital Marketing Intern,0,204,?
+ID037,Digital Marketing Specialist,1,374,?
+ID038,Digital Talent Program,0,578,?
+ID039,Flutter engineer,2,408,?
+ID040,Front End Developer,2,272,?
+ID041,Front End Engineer,3,544,?
+ID042,Front End Javascript,2,442,?
+ID043,Front End Web Developer,1,442,?
+ID044,Full stack developer,1,612,?
+ID045,fullstack software developer,0,272,?
+ID046,Game Tester,3,476,?
+ID047,Graphic Designer,4,612,?
+ID048,Human Resources,1,204,?
+ID049,IOS Engineer Intern,0,204,?
+ID050,IT Analyst,1,544,?
+ID051,IT Business Analyst,0,299,?
+ID052,IT DBA,1,544,?
+ID053,IT Helpdesk/ Customer Support,1,473,?
+ID054,IT Operation,1,680,?
+ID055,IT SUPPORT,3,585,?
+ID056,Junior Android Developer,2,503,?
+ID057,Junior Backend Developer,0,435,?
+ID058,Junior Backend Engineer,1,306,?
+ID059,Junior BackEnd Progammer,1,340,?
+ID060,Junior Go BackEnd Developer,1,391,?
+ID061,Junior iOS Developer,1,374,?
+ID062,Junior Java Developer,1,340,?
+ID063,Junior Operator I,3,408,?
+ID064,Junior Software Engineer,0,340,?
+ID065,Junior Software Engineer Backend,1,435,?
+ID066,KOL Specialist,1,374,?
+ID067,Lab Technician,1,680,?
+ID068,Lead UI/UX Designer,1,204,?
+ID069,Learning Content Specialist,2,510,?
+ID070,Loss Adjuster,1,374,?
+ID071,Management Trainee,2,525,?
+ID072,Marketing Administrator,0,408,?
+ID073,Marketing Analysist,0,408,?
+ID074,Marketing Executive,4,612,?
+ID075,Mathematic Teacher,3,286,?
+ID076,Network Security,0,544,?
+ID077,Operation Team Leader,4,394,?
+ID078,Operational Staff,1,476,?
+ID079,Operations Supervisor,3,653,?
+ID080,Partnership,1,612,?
+ID081,Platform Engineer,3,680,?
+ID082,Product Designer,1,578,?
+ID083,Product Development,2,612,?
+ID084,Product Engineer,2,510,?
+ID085,Product Management Officer,0,442,?
+ID086,Product Manager,2,612,?
+ID087,Project Manager,0,340,?
+ID088,Project Managment,2,476,?
+ID089,QA Engineer,2,503,?
+ID090,Qa tester entry level,1,340,?
+ID091,Quality Assurance,2,340,?
+ID092,React Native Developer,2,510,?
+ID093,Research and Development,1,299,?
+ID094,Sales Analyst,2,442,?
+ID095,Sales Operation Associate,2,646,?
+ID096,Science Teacher,2,340,?
+ID097,Senior Fraud Analyst,2,385,?
+ID098,senior graphic designer,4,449,?
+ID099,SEO,1,442,?
+ID100,SEO Specialist,2,476,?
+ID101,Soa Developer Junior,1,292,?
+ID102,Social Media Strategist,3,520,?
+ID103,Software Developer,2,551,?
+ID104,Software Engineer,2,204,?
+ID105,Software Engineer (Backend Engineer),0,357,?
+ID106,Software Engineer (Fullstack),2,476,?
+ID107,Software Engineer in QA (QA Automation),0,680,?
+ID108,Software Engineer Intern,0,204,?
+ID109,System Administrator,2,340,?
+ID110,System Analyst,0,272,?
+ID111,System Developer,3,408,?
+ID112,Technical Auditor,3,408,?
+ID113,Technical Consultant,4,510,?
+ID114,Technical Lead,1,340,?
+ID115,Test Engineer,0,354,?
+ID116,UI / UX Designer,2,476,?
+ID117,UI Designer,1,442,?
+ID118,UX Engineer,2,612,?
+ID119,UX researcher,1,646,?
+ID120,Video Editor,2,544,?
+ID121,Web Developer,2,306,?
